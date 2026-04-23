@@ -28,6 +28,7 @@ INSTALLED_APPS = [
     'django.contrib.staticfiles',
     'fintech',
     'rest_framework',
+    'aprel23',
 
 ]
 
