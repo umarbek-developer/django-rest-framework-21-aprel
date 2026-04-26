@@ -29,6 +29,7 @@ INSTALLED_APPS = [
     'fintech',
     'rest_framework',
     'aprel23',
+    'dars',
 
 ]
 
